@@ -1,0 +1,9 @@
+*.idea/
+*CMakeLists.txt
+*cmake-build-debug/
+*.o
+ex00/convert
+ex01/serialization
+ex02/identify_types
+*a.out
+*.dSYM
