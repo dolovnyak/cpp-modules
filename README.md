@@ -1,6 +1,6 @@
 # cpp-modules
 
-This is a set of tasks for learning C++.
+Set of tasks for learning C++.
 -------------
 
 - `cpp-module-0` - Namespace, class, member functions, stdio stream, initialization lists, static, const, and lots of basic stuf.
